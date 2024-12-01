@@ -45,7 +45,7 @@ Folgende Mods sind auf dem Server installiert:
     - Einfaches Sortieren von Items in Schubladensysteme.
 - [TeleportCommands](https://modrinth.com/mod/teleport-commands)
     - Teleportation zu Spielern und gesetzten Wegpunkten.
-- [Simple Voic Chat](https://modrinth.com/plugin/simple-voice-chat)
+- [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
     - Voice Chat für Gruppen und/oder Spieler in der Nähe.
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
     - Eine Minimap, duh?!
