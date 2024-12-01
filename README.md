@@ -37,4 +37,30 @@ Das Nicht-Einhalten der Regeln zieht eine Verwarnung oder direkt einen permanent
 
 Folgende Mods sind auf dem Server installiert:
 
-- TODO
+- [FallingTree](https://modrinth.com/mod/fallingtree)
+    - Zum einfachen Fällen von Bäumen.
+- [Lootr](https://modrinth.com/mod/lootr)
+    - Instanzierte Kisten, jeder Spieler hat seinen eigenen Loot in der Welt, somit lohnt sich erkunden auch wenn dort bereits andere Spieler waren.
+- [Storage Drawers](https://modrinth.com/mod/storagedrawers)
+    - Einfaches Sortieren von Items in Schubladensysteme.
+- [TeleportCommands](https://modrinth.com/mod/teleport-commands)
+    - Teleportation zu Spielern und gesetzten Wegpunkten.
+- [Simple Voic Chat](https://modrinth.com/plugin/simple-voice-chat)
+    - Voice Chat für Gruppen und/oder Spieler in der Nähe.
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+    - Eine Minimap, duh?!
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+    - Eine Weltkarte, Wegpunkte setzen und Koordinaten. Teleportation ist nicht möglich mittels dieses Mods. Nutzt hierfür die Chat-Commands von [TeleportCommands](https://modrinth.com/mod/teleport-commands).
+
+Vanilla Tweaks:
+- [Afk Display](https://vanillatweaks.net/picker/datapacks/)
+    - Abwesende Spieler werden nach 5min als "AFK" angezeigt.
+- [BackToBlocks](https://vanillatweaks.net/picker/datapacks/)
+    - Erlaubt das craften von Blöcken aus Treppen oder Platten.
+- [Double Slabs](https://vanillatweaks.net/picker/crafting-tweaks/)
+    - Erlaubt das craften von Platten aus einem einzigen Block.
+- [RottenFleshToLeather](https://vanillatweaks.net/picker/crafting-tweaks/)
+    - Erlaubt das craften von Leder aus verrottetem Fleisch.
+- [CraftableNameTags](https://vanillatweaks.net/picker/crafting-tweaks/)
+    - Erlaubt das craften von Namensschildern zum benennen von Kreaturen.
+
