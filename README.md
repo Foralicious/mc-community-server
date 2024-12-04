@@ -52,7 +52,7 @@ Folgende Mods sind auf dem Server installiert:
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
     - Eine Minimap, duh?!
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
-    - Eine Weltkarte, Wegpunkte setzen und Koordinaten. Teleportation ist nicht möglich mittels dieses Mods. Nutzt hierfür die Chat-Commands von [TeleportCommands](https://modrinth.com/mod/teleport-commands).
+    - Eine Weltkarte, Wegpunkte setzen und Koordinaten. Teleportation ist nicht möglich mittels dieses Mods. Nutzt hierfür die Chat-Commands von [HuskHomes](https://william278.net/docs/huskhomes/commands).
 
 Vanilla Tweaks:
 - [Afk Display](https://vanillatweaks.net/picker/datapacks/)
