@@ -19,7 +19,7 @@ Ja, kann man. Folgende Bedingungen müssen jedoch erfüllt sein:
 
 1. Schreibe uns deinen Minecraft-Namen in den Minecraft-Textkanal auf dem Foralicious Community Discord.
 2. Wir prüfen, ob die Bedingungen für den Serverbeitritt erfüllt sind und schalten dich hierfür frei. Du erhältst eine Discord-Nachricht, sobald du beitreten kannst.
-3. Tritt dem Server unter folgender Adresse bei: foralicious.g-portal.game
+3. Tritt dem Server mit der Minecraft Version 1.20.1 bei unter folgender Adresse: foralicious.g-portal.game
 
 ## Server-Regeln
 
@@ -43,7 +43,7 @@ Folgende Mods sind auf dem Server installiert:
     - Instanzierte Kisten, jeder Spieler hat seinen eigenen Loot in der Welt, somit lohnt sich erkunden auch wenn dort bereits andere Spieler waren.
 - [Storage Drawers](https://modrinth.com/mod/storagedrawers)
     - Einfaches Sortieren von Items in Schubladensysteme.
-- [TeleportCommands](https://modrinth.com/mod/teleport-commands)
+- [HuskHomes](https://william278.net/docs/huskhomes/commands)
     - Teleportation zu Spielern und gesetzten Wegpunkten.
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
     - Voice Chat für Gruppen und/oder Spieler in der Nähe.
