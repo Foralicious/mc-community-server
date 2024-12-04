@@ -37,6 +37,8 @@ Das Nicht-Einhalten der Regeln zieht eine Verwarnung oder direkt einen permanent
 
 Folgende Mods sind auf dem Server installiert:
 
+- [Create](https://modrinth.com/mod/create-fabric)
+    - Ultimate Mod für Automatisierungen, Tools, uvm.
 - [FallingTree](https://modrinth.com/mod/fallingtree)
     - Zum einfachen Fällen von Bäumen.
 - [Lootr](https://modrinth.com/mod/lootr)
